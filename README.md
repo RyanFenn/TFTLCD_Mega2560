@@ -6,17 +6,12 @@ The TFT LCD shield that was used for testing was sold by Kumantech. Here is a li
 http://www.kumantech.com/kuman-uno-r3-28-inch-tft-touch-screen-with-sd-card-socket-for-arduino-nano-mega2560-320x240-28quot-lcd-k60_p0022.html
 
 Repository notes: 
-- A selection of files were copied from a contributer by the name of materone, and the file structure has been reorganized slightly
-    Here is a link to materone's repository: https://github.com/materone/ILI9341-Arduini-Mega2560-Lib
-- Adafruit Industries is the original creator of this library (see Adafruit information below for more details)
-    Here is a link to Adafruit's repository: https://github.com/adafruit/TFTLCD-Library
-- As Adafruit states below, the Adafruit_GFX library is required and can be found at https://github.com/adafruit/Adafruit-GFX-Library ,
-    but it is IMPORTANT to note that compilation errors may occur with versions later than 1.5.3. Installing version 1.5.3 can be done
-    within the Arduino IDE by going to Library Manager, searching for "Adafruit_GFX_Library" and installing the proper version. 
+- This library has a selection of files were copied from a contributer by the name of materone, and the file structure has been reorganized slightly. Here is a link to materone's repository: https://github.com/materone/ILI9341-Arduini-Mega2560-Lib
+- Adafruit Industries is the original creator of this library (see Adafruit information below for more details).Here is a link to Adafruit's repository: https://github.com/adafruit/TFTLCD-Library
+- As Adafruit states below, the Adafruit_GFX library is required and can be found at https://github.com/adafruit/Adafruit-GFX-Library , but it is IMPORTANT to note that compilation errors may occur with versions later than 1.5.3. Installing version 1.5.3 can be done within the Arduino IDE by going to Library Manager, searching for "Adafruit_GFX_Library" and installing the proper version. 
 - https://github.com/adafruit/Adafruit_TouchScreen is a library that can also be associated with this touch screen
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 
 Adafruit Information: 
 
