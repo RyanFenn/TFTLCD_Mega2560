@@ -10,6 +10,10 @@ Repository notes:
     Here is a link to materone's repository: https://github.com/materone/ILI9341-Arduini-Mega2560-Lib
 - Adafruit Industries is the original creator of this library (see Adafruit information below for more details)
     Here is a link to Adafruit's repository: https://github.com/adafruit/TFTLCD-Library
+- As Adafruit states below, the Adafruit_GFX library is required and can be found at https://github.com/adafruit/Adafruit-GFX-Library ,
+    but it is IMPORTANT to note that compilation errors may occur with versions later than 1.5.3. Installing version 1.5.3 can be done
+    within the Arduino IDE by going to Library Manager, searching for "Adafruit_GFX_Library" and installing the proper version. 
+- https://github.com/adafruit/Adafruit_TouchScreen is a library that can also be associated with this touch screen
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
