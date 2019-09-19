@@ -1,5 +1,5 @@
 # TFTLCD_Mega2560
-Arduino library for 8-bit TFT LCDs, specifically modified and tested for the 2.8" screen and the 9341 driver, using the Mega 2560
+Arduino library for 8-bit TFT LCDs, specifically modified and tested for a 2.8" screen, using the Mega 2560
 
 The TFT LCD shield that was used for testing was sold by Kumantech. Here is a link to their product: 
 
