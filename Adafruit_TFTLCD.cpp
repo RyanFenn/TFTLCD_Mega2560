@@ -111,12 +111,11 @@ void Adafruit_TFTLCD::init(void) {
 
   setWriteDir(); // Set up LCD data port(s) for WRITE operations
 
-  rotation  = 0;
-  cursor_y  = cursor_x = 0;
-  textsize  = 1;
+  rotation = 0;
+  cursor_y = cursor_x = 0;
   textcolor = 0xFFFF;
-  _width    = TFTWIDTH;
-  _height   = TFTHEIGHT;
+  _width = TFTWIDTH;
+  _height = TFTHEIGHT;
 }
 
 // Initialization command tables for different LCD controllers
